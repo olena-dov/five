@@ -176,13 +176,13 @@ img {
     fill: var(--text-color);
 }
 
- .ico-style:hover {
-    fill: var(--active-color);
-}
-
-.ico-contact .item:hover .ico-style {
+.contact .item:hover .ico-style {
    fill: var(--active-color);
 }
+
+/*  .ico-style:hover {
+    fill: var(--active-color);
+} */
 
 .contact .link {
     display: inline-flex;
