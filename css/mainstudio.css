@@ -180,6 +180,9 @@ img {
     fill: var(--active-color);
 }
 
+.contact .item:hover .ico-style{
+   fill: var(--active-color);
+}
 
 .contact .link {
     display: inline-flex;
