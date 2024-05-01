@@ -149,9 +149,9 @@ img {
     color: var(--active-color);
 }
 
-/* .contact .item:hover {
+.contact .item:hover {
     color: var(--active-color);
-} */
+}
 
 /* .contact .item::before {
     content: "";
