@@ -176,7 +176,8 @@ img {
     fill: var(--text-color);
 }
 
-.contact .item:hover .ico-style {
+.contact .item:hover .ico-style,
+.contact .item:focus .ico-style {
    fill: var(--active-color);
 }
 
