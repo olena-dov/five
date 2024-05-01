@@ -176,9 +176,12 @@ img {
     fill: var(--text-color);
 }
 
-.contact .item:hover .ico-style,
-.contact .item:focus .ico-style {
+.contact .item:hover .ico-style {
    fill: var(--active-color);
+}
+
+.contact .link:focus .ico-style {
+    fill: var(--active-color);
 }
 
 /*  .ico-style:hover {
