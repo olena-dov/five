@@ -142,7 +142,7 @@ img {
 .ico-contact {
     display: flex;
     align-items: center;
-    color: currentColor;
+    color: var(--text-color);
 }
 
 .ico-contact:hover {
