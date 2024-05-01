@@ -180,7 +180,7 @@ img {
     fill: var(--active-color);
 }
 
-.contact .item:hover .ico-style{
+.ico-contact .item:hover .ico-style {
    fill: var(--active-color);
 }
 
